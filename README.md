@@ -66,9 +66,4 @@ The **Restaurant Analysis Project** by **Cognifyz** is designed to uncover deep 
 
 ---
 
-### 📌 **Next Steps:**
-✅ Complete the assigned tasks using Python (Pandas, Matplotlib, Seaborn, Folium, etc.).  
-✅ Save outputs as separate files for submission.  
-✅ 📢 Share results on LinkedIn and tag **Cognifyz Technologies**.  
-
 🚀 **Happy Analyzing!** 🍽️📊
